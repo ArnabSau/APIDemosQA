@@ -1,0 +1,48 @@
+[INFO ] 2022-03-22 19:44:00.575 [main] BaseClass - Appium server start
+[INFO ] 2022-03-22 19:44:04.356 [main] BaseClass - Driver Setup
+[INFO ] 2022-03-22 19:44:23.232 [main] BaseClass - App button click
+[INFO ] 2022-03-22 19:44:25.597 [main] BaseClass - Activity button click
+[INFO ] 2022-03-22 19:44:27.024 [main] BaseClass - Custom Title button click
+[INFO ] 2022-03-22 19:44:30.974 [main] BaseClass - Enter Arnab  in left text edit
+[INFO ] 2022-03-22 19:44:30.975 [main] BaseClass - Change Left button click
+[INFO ] 2022-03-22 19:44:32.426 [main] BaseClass - Arnab  is showing in left title
+[INFO ] 2022-03-22 19:44:32.427 [main] BaseClass - Driver close
+[INFO ] 2022-03-22 19:44:32.691 [main] BaseClass - Driver Setup
+[INFO ] 2022-03-22 19:44:41.099 [main] BaseClass - App button click
+[INFO ] 2022-03-22 19:44:42.379 [main] BaseClass - Activity button click
+[INFO ] 2022-03-22 19:44:45.005 [main] BaseClass - Custom Title button click
+[INFO ] 2022-03-22 19:44:47.517 [main] BaseClass - Enter Sourav in left text edit
+[INFO ] 2022-03-22 19:44:48.172 [main] BaseClass - Change right button click
+[INFO ] 2022-03-22 19:44:48.837 [main] BaseClass - Left is best is showing in left title
+[INFO ] 2022-03-22 19:44:48.838 [main] BaseClass - Driver close
+[INFO ] 2022-03-22 19:44:48.987 [main] BaseClass - Driver Setup
+[INFO ] 2022-03-22 19:44:55.472 [main] BaseClass - App button click
+[INFO ] 2022-03-22 19:44:58.073 [main] BaseClass - Alert Dialogs button click
+[INFO ] 2022-03-22 19:44:59.342 [main] BaseClass - LIST DIALOGS button click
+[INFO ] 2022-03-22 19:45:01.460 [main] BaseClass - Command one selected
+[INFO ] 2022-03-22 19:45:01.552 [main] BaseClass - Got message as You selected: 0 , Command one
+[INFO ] 2022-03-22 19:45:01.553 [main] BaseClass - Driver close
+[INFO ] 2022-03-22 19:45:01.833 [main] BaseClass - Driver Setup
+[INFO ] 2022-03-22 19:45:08.306 [main] BaseClass - App button click
+[INFO ] 2022-03-22 19:45:10.629 [main] BaseClass - Alert Dialogs button click
+[INFO ] 2022-03-22 19:45:11.929 [main] BaseClass - SINGLE CHOICE LIST button click
+[INFO ] 2022-03-22 19:45:14.229 [main] BaseClass - Traffic radio button selected
+[INFO ] 2022-03-22 19:45:14.229 [main] BaseClass - Alert accept
+[INFO ] 2022-03-22 19:45:16.001 [main] BaseClass - Traffic radio button is selected
+[INFO ] 2022-03-22 19:45:16.001 [main] BaseClass - Driver close
+[INFO ] 2022-03-22 19:45:16.396 [main] BaseClass - Driver Setup
+[INFO ] 2022-03-22 19:45:22.729 [main] BaseClass - Animation button click
+[INFO ] 2022-03-22 19:45:25.395 [main] BaseClass - Hide-Show button click
+[INFO ] 2022-03-22 19:45:26.642 [main] BaseClass - Hide(GONE) checkbok click
+[INFO ] 2022-03-22 19:45:26.837 [main] BaseClass - Button no 2 click
+[INFO ] 2022-03-22 19:45:28.130 [main] BaseClass - Button no 2 is not visible
+[INFO ] 2022-03-22 19:45:28.130 [main] BaseClass - Driver close
+[INFO ] 2022-03-22 19:45:28.303 [main] BaseClass - Driver Setup
+[INFO ] 2022-03-22 19:45:34.757 [main] BaseClass - Animation button click
+[INFO ] 2022-03-22 19:45:37.024 [main] BaseClass - Hide-Show button click
+[INFO ] 2022-03-22 19:45:38.255 [main] BaseClass - Hide(GONE) checkbok click
+[INFO ] 2022-03-22 19:45:38.443 [main] BaseClass - Button no 2 click
+[INFO ] 2022-03-22 19:45:39.235 [main] BaseClass - Show button click
+[INFO ] 2022-03-22 19:45:40.159 [main] BaseClass - Button no 2 is visible
+[INFO ] 2022-03-22 19:45:40.159 [main] BaseClass - Driver close
+[INFO ] 2022-03-22 19:45:40.349 [main] BaseClass - Appium server stop

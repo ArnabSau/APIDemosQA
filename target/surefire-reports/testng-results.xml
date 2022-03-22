@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-03-22T07:23:01Z" name="Suite" finished-at="2022-03-22T07:24:26Z" duration-ms="84819">
+    <groups>
+      <group name="cucumber">
+        <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Runner@2dc9b0f5]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test started-at="2022-03-22T07:23:01Z" name="Test" finished-at="2022-03-22T07:24:26Z" duration-ms="84819">
+      <class name="runner.Runner">
+        <test-method is-config="true" signature="setUpClass(org.testng.ITestContext)[pri:0, instance:runner.Runner@2dc9b0f5]" started-at="2022-03-22T07:23:01Z" name="setUpClass" finished-at="2022-03-22T07:23:05Z" duration-ms="3347" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@47ef5a33]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Runner@2dc9b0f5]" started-at="2022-03-22T07:23:05Z" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-03-22T07:23:22Z" duration-ms="17264" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Verify Change Left Title"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Activity Feature]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Runner@2dc9b0f5]" started-at="2022-03-22T07:23:22Z" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-03-22T07:23:35Z" duration-ms="13423" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Verify Change Right Title"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Activity Feature]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Runner@2dc9b0f5]" started-at="2022-03-22T07:23:35Z" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-03-22T07:23:48Z" duration-ms="12058" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Verify List Dialogs"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Alert Dialogs Feature]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Runner@2dc9b0f5]" started-at="2022-03-22T07:23:48Z" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-03-22T07:24:02Z" duration-ms="13973" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Verify Single List Dialogs"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Alert Dialogs Feature]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Runner@2dc9b0f5]" started-at="2022-03-22T07:24:02Z" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-03-22T07:24:13Z" duration-ms="11227" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Verify Hiding of buttons"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Animation Feature]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Runner@2dc9b0f5]" started-at="2022-03-22T07:24:13Z" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-03-22T07:24:26Z" duration-ms="12786" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Verify Showing of buttons"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Animation Feature]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:runner.Runner@2dc9b0f5]" started-at="2022-03-22T07:24:26Z" name="tearDownClass" finished-at="2022-03-22T07:24:26Z" duration-ms="724" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- runner.Runner -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

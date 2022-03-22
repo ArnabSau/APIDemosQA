@@ -1,0 +1,13 @@
+base\BaseClass.class
+screens\app\AlertDialogsScreen.class
+helper\ExcelReaderManager.class
+utils\ConfigReader.class
+utils\TestDataReader.class
+screens\app\ActivityScreen.class
+screens\animation\AnimationScreen.class
+screens\animation\HideShowAnimationScreen.class
+helper\AppiumServerManager.class
+screens\app\AppScreen.class
+screens\home\HomeScreen.class
+utils\TouchManager.class
+screens\app\CustomTitleScreen.class

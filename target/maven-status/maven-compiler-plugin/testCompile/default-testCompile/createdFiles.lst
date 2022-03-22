@@ -1,0 +1,5 @@
+hooks\MyHooks.class
+runner\Runner.class
+steps\ActivityStep.class
+steps\AlertDialogsStep.class
+steps\HideShowStep.class
