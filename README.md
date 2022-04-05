@@ -76,6 +76,6 @@ To build this test suite in Jenkins use this github repository `https://github.c
 
 ### Reports and Logs :
 - Extent report gets generated after the run under `\test-output\ExtentReport\report.html`
-- Screenshots gets placed under ``\test-output\screenshots` folder 
+- Screenshots gets placed under `\test-output\screenshots` folder 
 - TestNG report as `emailable-report.html` gets generated under `\test-output` folder
 - Logs generate as `Mylogs.log` under `\logs\Mylogs.log` folder
